@@ -1,16 +1,15 @@
 
 {
-   "data":
-      [
-         "message": "hello"
-         
-         
-      
-         "number": 3500.000000000
-      
-      
-      
-         "place":"Sheffield"
-      ]
+
+ "message": "hello"
+ 
+ 
+
+ "number": 3500.000000000
+
+
+
+ "place":"Sheffield"
+
  
 }
