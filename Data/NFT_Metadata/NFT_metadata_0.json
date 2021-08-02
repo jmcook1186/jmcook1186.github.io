@@ -9,8 +9,8 @@
       "value": "Ms One"
     }, 
     {
-      "trait_type": "Co-authors", 
-      "value": ["Mr Two", "Mrs Three"],
+      "trait_type": "Co-author", 
+      "value": "Mr Two"
     }, 
     {
       "trait_type": "Citations", 
