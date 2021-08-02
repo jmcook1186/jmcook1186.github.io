@@ -1,7 +1,7 @@
 {
     "name": "Random Article",
     "description": "This arbitrary paper demonstrates the utility of NFTs for publishing science papers",
-    "image": "https://github.com/jmcook1186/jmcook1186.github.io/blob/fa4d0cc523bd408d24a950939079ccb8f0eb8739/Data/NFT_Metadata/paper_0.jpg",
+    "image": "https://raw.githubusercontent.com/jmcook1186/jmcook1186.github.io/main/Data/NFT_Metadata/paper_0.jpg",
     "attributes": 
     [{"authors":["Mr One","Ms Two"],
     "download_link": "https://github.com/jmcook1186/jmcook1186.github.io/blob/8b4106ae96fbb154aa4ff3a4665643eb8ad0f9ae/Data/NFT_Metadata/paper_0.pdf"}]
