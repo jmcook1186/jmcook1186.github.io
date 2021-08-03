@@ -14,7 +14,7 @@
       "value": 56
     }, 
     { 
-      "display_type":"number"
+      "display_type":"number",
       "trait_type": "Total Downloads", 
       "value": 4
     }
