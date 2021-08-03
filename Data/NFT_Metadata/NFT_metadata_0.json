@@ -1,9 +1,5 @@
 {
-    "name": "Random Article",
-    "description": "This arbitrary paper demonstrates the utility of NFTs for publishing science papers",
-    "image": "https://raw.githubusercontent.com/jmcook1186/jmcook1186.github.io/main/Data/NFT_Metadata/paper_0.jpg",
-    "external_url": "https://github.com/jmcook1186/jmcook1186.github.io/blob/8b4106ae96fbb154aa4ff3a4665643eb8ad0f9ae/Data/NFT_Metadata/paper_0.pdf",
-    "attributes": [
+  "attributes": [
     {
       "trait_type": "Lead Author", 
       "value": "Ms One"
@@ -13,12 +9,18 @@
       "value": "Mr Two"
     }, 
     {
-      "display_type": "number",
+     "display_type": "number",
       "trait_type": "Citations", 
-      "value": "58"
+      "value": 56
+    }, 
+    { 
+      "display_type":"number"
+      "trait_type": "Total Downloads", 
+      "value": 4
     }
-    
-
-  ],
+  ], 
+  "description": "This arbitrary paper demonstrates the utility of NFTs for publishing science papers.", 
+  "external_url": "https://github.com/jmcook1186/jmcook1186.github.io/blob/8b4106ae96fbb154aa4ff3a4665643eb8ad0f9ae/Data/NFT_Metadata/paper_0.pdf", 
+  "image": "https://raw.githubusercontent.com/jmcook1186/jmcook1186.github.io/main/Data/NFT_Metadata/paper_0.jpg", 
+  "name": "One, Two et al. Arbitrary Paper, 2021"
 }
-
