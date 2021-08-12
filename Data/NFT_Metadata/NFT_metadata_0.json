@@ -2,7 +2,7 @@
   "attributes": [
     {
      "trait_type": "Lead Author", 
-     "value": "Ms One"
+     "value": "Cook, J"
     }, 
     {
      "trait_type": "Co-author", 
@@ -23,12 +23,16 @@
     {
      "display_type": "number",
      "trait_type": "Citations", 
-     "value": 56
+     "value": 30
     }, 
     { 
      "display_type":"number",
      "trait_type": "Total Downloads", 
-     "value": 4
+     "value": 1200
+    },
+    { 
+     "trait_type": "Assets", 
+     "value": "https://raw.githubusercontent.com/jmcook1186/jmcook1186.github.io/main/Data/NFT_Metadata/paper_0_assets.zip"
     }
   ], 
   "description": "This arbitrary paper demonstrates the utility of NFTs for publishing science papers.", 
