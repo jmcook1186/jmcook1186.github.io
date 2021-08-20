@@ -1,1 +1,44 @@
-{"attributes": [{"trait_type": "Lead Author", "value": "0xa0F57bd9E5F156BD60Ff214abA29c4cAF6d2C386"}, {"trait_type": "Co-author", "value": "0x281AABB85C68e1638Bb092750A0D9bb06ba103Ee"}, {"trait_type": "Top-level topic", "value": "Earth Science"}, {"trait_type": "Sub-topic", "value": "Ice and Snow"}, {"trait_type": "Sub-topic 2", "value": "Simulations/modelling"}, {"trait_type": "Citations", "value": 2}, {"trait_type": "Trust Score", "value": 45}, {"trait_type": "number of reviews", "value": 1}, {"trait_type": "Assets", "value": "https://raw.githubusercontent.com/jmcook1186/jmcook1186.github.io/main/Data/NFT_Metadata/paper_0_assets.zip"}], "description": "This arbitrary paper demonstrates the utility of NFTs for publishing science papers.", "external_url": "https://github.com/jmcook1186/jmcook1186.github.io/blob/8b4106ae96fbb154aa4ff3a4665643eb8ad0f9ae/Data/NFT_Metadata/paper_0.pdf", "image": "https://raw.githubusercontent.com/jmcook1186/jmcook1186.github.io/main/Data/NFT_Metadata/paper_0.jpg", "name": "Quantifying bioalbedo, 2017"}
+{
+    "attributes": [
+        {
+            "trait_type": "Lead Author",
+            "value": "0xa0F57bd9E5F156BD60Ff214abA29c4cAF6d2C386"
+        },
+        {
+            "trait_type": "Co-author",
+            "value": "0x281AABB85C68e1638Bb092750A0D9bb06ba103Ee"
+        },
+        {
+            "trait_type": "Top-level topic",
+            "value": "Earth Science"
+        },
+        {
+            "trait_type": "Sub-topic",
+            "value": "Ice and Snow"
+        },
+        {
+            "trait_type": "Sub-topic 2",
+            "value": "Simulations/modelling"
+        },
+        {
+            "trait_type": "Citations",
+            "value": 2
+        },
+        {
+            "trait_type": "Trust Score",
+            "value": 45
+        },
+        {
+            "trait_type": "number of reviews",
+            "value": 1
+        },
+        {
+            "trait_type": "Assets",
+            "value": "https://raw.githubusercontent.com/jmcook1186/jmcook1186.github.io/main/Data/NFT_Metadata/paper_0_assets.zip"
+        }
+    ],
+    "description": "This arbitrary paper demonstrates the utility of NFTs for publishing science papers.",
+    "external_url": "https://github.com/jmcook1186/jmcook1186.github.io/blob/8b4106ae96fbb154aa4ff3a4665643eb8ad0f9ae/Data/NFT_Metadata/paper_0.pdf",
+    "image": "https://raw.githubusercontent.com/jmcook1186/jmcook1186.github.io/main/Data/NFT_Metadata/paper_0.jpg",
+    "name": "Quantifying bioalbedo, 2017"
+}
