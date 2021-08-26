@@ -1,9 +1,7 @@
-{
-"data": [
+{"data": 
          {
-          "number": "3500",
-          "OtherNumber": "1000"
+          "number": 3500,
+          "OtherNumber": 1000
 
          }
-        ]
 }
